@@ -24,10 +24,10 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 -	MSBI (SSIS, SSRS, SSAS (Tabular Modelling)) SQL server Clustering, Always On.
 
 # Project Experience
-**Project:** Migrating and Modernizing to Microsoft Fabric Platform  
-    **Company:** Fujitsu, Australia (Current Company from April 2023 – Acquired Versor)  
-    **Technologies:** Microsoft Fabric, Azure Services  
-    
+1.) **Project:** Migrating and Modernizing to Microsoft Fabric Platform  
+   **Company:** Fujitsu, Australia (Current Company from April 2023 – Acquired Versor)  
+   **Technologies:** Microsoft Fabric, Azure Services  
+   
 **Customer Background:** One of stock listed Intellectual Property Management company in Australia, wanted to migrate and unify their existing analytics solution to Microsoft Fabric. Current environments had many analytics solutions working in silos with no cross collaboration and reference across departments. Customers wanted to develop centralized analytical platforms on cutting edge technology with capabilities like data virtualization, near real time reporting providing single source of Truth.  
     
 **Roles & Responsibilities:**
@@ -39,4 +39,38 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 -	Developed a semantic model using Direct Lake and Import mode features.
 -	Deployed code across environments using deployment pipelines.
 
+2.)	**Project:** Migrating and Modernizing Azure Data Platform for Logistics Company  
+      **Company:** Fujitsu, Australia (Current Company from April 2023 – Acquired Versor)   
+      **Technologies:** Azure SQL, Synapse, Data Factory, Databricks, Power BI  
+      
+**Customer Background:**  One of the biggest logistics Company within Australia, wanted to migrate and modernize their Data Solutions on Azure. This was a greenfield engagement as they had a minimal presence in Azure Cloud. There were multiple Operational and Analytical solutions which needed to migrate and modernize across multiple business units from on-prem environments to Azure either due to end of license\support of existing software\hardware and solution performance degradations.   
+
+**Roles & Responsibilities:**  
+-	Gathering requirement, designing solution architecture, and showcasing Project Demo to C-level.
+-	Initiated and executed Cloud Adoption framework process.
+-	Facilitated Azure Infrastructure setup and Network connectivity between AWS, On-prem and Azure.
+-	Configured Managed Private endpoints for Synapse, Databricks and DataFactory to established secure connection and data movement across Azure Services
+-	Technical Lead\ Data Architect responsible for execution of end-to-end solutions. 
+-	Migrated Business Critical Operational database containing all the logistics transactional details across geography on Azure Synapse. 
+-	Modernized Datawarehouse solutions by moving 12 solutions across multiple business units working in silos into Single Analytical Layer using Data factory, Databricks and Synapse. 
+-	Developed Orchestration framework using Data Factory and Streaming Solution using Event Hub and Databricks. 
+-	Provisioned Data Governance Layer using Azure Purview.
+-	Provisioned Azure DevOps for project management, code management and CI\CD pipelines
+
+3.)	**Project:** Migration On-Premises BI Solutions to Azure PAAS for Mining Industry  
+         **Company:** Versor, Australia (Current Company from Sep 2020)   
+         **Technologies:** SQL Managed Instances, DMS, AAS, Data Factory  
+
+   **Customer Background:**  Implemented a BI Migration Solution for an enterprise Mining Company. It had an On-premises SQL DW solution developed using MSBI tools like SSIS, SSAS and Power BI. This solution had all the mining site process and accounting details stored in On-premises SQL DB. As a part of Migration activity had to lift and shift the Database and relevant BI tools to its corresponding PAAS services with minimal changes.
+
+   **Roles & Responsibilities:**  
+-	Initiated and executed Cloud Adoption framework process for Migration.
+-	Executed POC’s and pilot project for the Migration Activity.
+-	Designed and developed Migration framework and process.
+-	Lift and Shift the On-premises resources to corresponding PAAS services (SQL Managed Instance, SSIS on ADF, AAS) on Azure.
+-	Provisioning DevOps Process. 
+
+4.)	Project: Advanced Analytics in Energy Domain
+         Company: Servian, Australia (Current Company from 2019 Oct) 
+         Technologies: Azure SQL DW, Azure Data Factory, Event Hub, Databricks, Power BI
 
