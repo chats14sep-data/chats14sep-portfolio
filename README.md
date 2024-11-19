@@ -1,5 +1,7 @@
 
 [Databricks vs Fabric Comparison](https://github.com/chats14sep-data/chats14sep-portfolio/blob/main/DatabricksVsFabric.md)
+[Data Platform Architecture - Template ](https://github.com/chats14sep-data/chats14sep-portfolio/blob/main/DatabricksVsFabric.md)
+[Data Platform Questionairre ](https://github.com/chats14sep-data/chats14sep-portfolio/blob/main/DatabricksVsFabric.md)
 
 
 
