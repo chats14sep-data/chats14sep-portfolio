@@ -1,3 +1,6 @@
+
+Databricks vs Fabric Comparison
+
 # Professional Summary
 Highly skilled and certified Fabric, Azure and Databricks Data Engineering Architect with more than 15+ years of experience in Migrating and Modernizing Solutions on Microsoft Cloud and On-Prem Data platform (Azure SQL, Synapse, Data Factory, Databricks, SSIS, SSRS). I am an Ex-Microsoft Full Time Employee for nearly 8 years and an Australian Citizen.
 # Experience Highlights
