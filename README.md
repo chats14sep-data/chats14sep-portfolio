@@ -70,7 +70,28 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 -	Lift and Shift the On-premises resources to corresponding PAAS services (SQL Managed Instance, SSIS on ADF, AAS) on Azure.
 -	Provisioning DevOps Process. 
 
-4.)	Project: Advanced Analytics in Energy Domain
-         Company: Servian, Australia (Current Company from 2019 Oct) 
-         Technologies: Azure SQL DW, Azure Data Factory, Event Hub, Databricks, Power BI
+4.)	**Project:** Advanced Analytics in Energy Domain  
+         **Company:** Servian, Australia (Current Company from 2019 Oct)   
+         **Technologies:** Azure SQL DW, Azure Data Factory, Event Hub, Databricks, Power BI  
+         
+**Customer Background:** Developed an enterprise level anomaly detection and predictive maintenance data driven   analytical platform for one of the largest energy suppliers in Australia. Project implementation involved capturing sensor information from various energy emulating equipment and converting into structured format for further analysis.   This platform enables business users to make decisions based on the data refined through the process. Databricks MLOps provide insights on predictive maintenance for many energy sector machines saving a large cost of damage and repair.  
+
+**Roles & Responsibilities:**  
+-	Involve in gathering requirements and defining scope and writing user stories with the customer.
+-	Participate in designing Architecture to migrate and Modernize from On-Premises to Azure Platform.
+-	Setting up a security framework to allow different azure resources to connect in VNET. 
+-	Design and developed data ingestion and transformation framework.
+-	Creating an ETL platform using python enabling customized ETL features like logging, fault- tolerance, checkpoint, configuration etc.
+-	Involved in Setting up DevOps process.
+
+**CERTIFICATIONS**
+-	Fabric Analytics Engineer (DP-600)
+-	DP-200,201 (Designing and Implementing Azure Data Solutions)
+-	AZ 300,301 (Microsoft Architect Expert)
+-	Spark 3.0 using Python.
+-	Databricks Engineer Associate
+-	Databricks Engineer Professional. 
+-	AZ-900 (Azure Fundamentals)
+-	70-473 (Designing and Implementing Cloud Data Platform Solutions) 
+
 
