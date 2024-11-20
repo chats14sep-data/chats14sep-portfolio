@@ -1,4 +1,5 @@
-About Me
+**About Me**  
+I am a certified Data Engineering Architect with 15+ years of experience in designing, migrating, and modernizing data solutions on Microsoft Cloud and on-premises platforms like Microsoft Fabric, Azure Synapse, Data Factory, and Databricks. A former Microsoft employee and Australian citizen, I have delivered enterprise-scale projects across industries such as logistics, energy, and banking in Australia, the U.S., and India. Passionate about innovation and collaboration, I bring expertise in creating robust architectures and managing end-to-end data platform solutions. Outside of work, I’m a cricket enthusiast who values teamwork and strategy.  
 
 [Chaitanya Resume](https://github.com/chats14sep-data/chats14sep-portfolio/blob/main/Resume.md)  
 This resume highlights a summary of professional experience, key areas of expertise, technologies utilized, project details with roles and responsibilities, and certifications earned.  
