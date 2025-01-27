@@ -86,7 +86,7 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 
 **CERTIFICATIONS**
 -	Fabric Analytics Engineer (DP-600)
--	Fabrid Data Engineer (DP-700)
+-	Fabric Data Engineer (DP-700)
 -	DP-200,201 (Designing and Implementing Azure Data Solutions)
 -	AZ 300,301 (Microsoft Architect Expert)
 -	Spark 3.0 using Python.
