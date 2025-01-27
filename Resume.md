@@ -1,5 +1,5 @@
 # Professional Summary
-Highly skilled and certified Fabric, Azure and Databricks Data Engineering Architect with more than 15+ years of experience in Migrating and Modernizing Solutions on Microsoft Cloud and On-Prem Data platform (Azure SQL, Synapse, Data Factory, Databricks, SSIS, SSRS). I am an Ex-Microsoft Full Time Employee for nearly 8 years and an Australian Citizen.
+Highly skilled and certified Fabric, Azure and Databricks Data Engineering Architect with more than 15+ years of experience in Migrating and Modernizing Solutions on Microsoft Cloud and On-Prem Data platform (Azure SQL, Synapse, Data Factory, Databricks, Fabric, SSIS, SSRS). I am an Ex-Microsoft Full Time Employee for nearly 8 years and an Australian Citizen.
 # Experience Highlights
 -	Productionized end to end Solution using Microsoft Fabric. 
 -	Hands on experience of Azure analytics data platform services like Microsoft Fabric, Azure Synapse, Data Factory, Databricks using Pyspark and Python, Azure SQL, Synapse, Azure Analysis services and Power BI. 
@@ -15,7 +15,7 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 -	Hands on experience with SQL server versions from 2005-2017 and traditional BI tools (SSIS, SSAS and SSRS).  
 -	Experience of working in Agile, Scrum and Waterfall Software development methodologies.  
 -	Provisioned Azure DevOps to set up DevOps board for project management, code management along with Implementation of CI/CD Process.
--	Certified on Microsoft Fabric (DP-600), Azure Data Platform (Exam: 70-473, 70-533, DP-200,201, AZ 300,301) and Databricks (Spark 3.0, Databricks Engineer Associate, Databricks Engineer Professional)
+-	Certified on Microsoft Fabric (DP-600,700), Azure Data Platform (Exam: 70-473, 70-533, DP-200,201, AZ 300,301) and Databricks (Spark 3.0, Databricks Engineer Associate, Databricks Engineer Professional)
 
 # Programming Languages and Technologies
 -	SQL Azure, Azure Databricks, Azure Data Factory, Synapse, Azure Analysis Services, Event Hub, Stream Analytics, Python, Pyspark, Power BI, Microsoft Fabric
@@ -86,6 +86,7 @@ Highly skilled and certified Fabric, Azure and Databricks Data Engineering Archi
 
 **CERTIFICATIONS**
 -	Fabric Analytics Engineer (DP-600)
+-	Fabrid Data Engineer (DP-700)
 -	DP-200,201 (Designing and Implementing Azure Data Solutions)
 -	AZ 300,301 (Microsoft Architect Expert)
 -	Spark 3.0 using Python.
